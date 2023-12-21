@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hla-ecrm-dev",
+  "private_key_id": "96b5d064fadf4b177709ed095848d06585cd8235",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCctle217sHqex3\n9HeL1kEOOg/lQEuy0pjyNqN7HFaEuAOePXbpg8fSnzlt5QhVVMUI6Ub59YBbNFNi\nDbdrj+xUc7Xe91xT1jfdemP++E+H/mWKYyp+peCj2vvvzK3QwbkteWv+0DWV+oUZ\nR4R+K6AvVpbp+Zv3uZm5yUCmiUxavBOiFFHLvvDUtVpdc/2s5+Gf9v5oKBzX+HKQ\nuWzYnVmKhHIY8ybdht8Vt9XSZSX0lyEE+St9bDTl/7yqC9HwM+3pJTEpSU2VnTkZ\n89wIoYhBpHzFJkLt6A75my1wr+Pt3ViymPW+CqiYG0dMh0mvO/5JVI7btPeHZ2zk\nDnOIG/MLAgMBAAECggEAM8VPW+GP8Xuy2XwDJEivLDaFOsyPVW+aRGZFgq29bVHn\nLBcNGh7FXDDqxYHEy3/aKdP69Sej9D1okHuMjTW6MroZKqQYNcAOq5W7xCcfCwPB\nYsLY7ob5G9iDo1hAUbc16C51PXRmR3pADzZfsFjULd9SstAZtPB1Nvmj6IByH4T/\nEw+0PRb8BgVZJlQK8lrZG98xnxIGDAcbzHGoBpa/Ri+VRpJkesEFOgB6q8w3GVZB\nN6XbijrB8x6eHq1oWieiqmy9+9+5GTaa7SdLdHT0GcKcBOgn4HSAR0hJ50BsOziE\nIhUvhhLnIucxadM3YN9tTxy54wrdZeMFe3Whi4jnaQKBgQDRq5ImyYkm2k8lanAM\n2yHdm9f5sg9WD/vfw1Os0NENwMUMowxAcgblCa4zXE2dv1a5MZEp1y66PUfPXJUy\njkUHVlbomDs9j9tGH9eZ7WlgQIkTN5LUu6vmLPn/mt5/JoDqFcpcLj+eQOvGjZLD\n5+q21r1n7dKUl8b3FywyCRMO8wKBgQC/VxjdLaA/NAgtwI2l6Isep0eid33m0XrH\n+yhdd4WQtM2AyNK4saiqALapf9Sbt6OLhLEPYdVmfQh7gkOYSYvBvwqO9e5C/1Ws\nV491z4QVsSe8WhLQsMj3Fkagh5FA4noZylgdNxtFZJiiVRXpZwL6H2ypawLSK1cK\nDvG+2T4BiQKBgAuRi97X/9lE8lj+JnCPJq8zihcc2/vDpgISpOtEGkTH/hdUZ7im\nkfrRLetnjGDHzeEp+vh0Bv//oZavZQwFDYn6GZF71Mjwxwh3eU3k64uEBAwrZM6Y\nDEQG90RDJ0OcvEAuM5wicSAqNNgft5lXknvEHW8+j//i3/eCL84S8hpBAoGBAJRG\nx6LnL66rAMeL13lBi0X29iFmHjAYF+EPtkkwTVZFdpediQbNzlnn8aXKxRTjK577\n9kZoV3pz3HXyDbXfEKnVBTaiSMCspFTJCgiPBtnUjml9F+WXijVIkvTl+d9hYqPH\n1Z7WTJDrEwmBjFhylrEEVy23GtmJ8op96EMwkMeZAoGAL7h6gLZGGZRNpZAjtZZD\n0blBL7ZrDHAdEy2a8Hfl5s6h5OKQEf3EYg+m1UhCAr3gP3s7LUA7pynQXz7BOYQ4\nf0jNp/A2tnTEdhKVBrLTawUKxAJNsOCd0+QJ2pMgLS7t9cqiRUrynsefgDkKmZKr\nL76otfensRiyw1oEWOquuPU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "batchjobhlarun@hla-ecrm-dev.iam.gserviceaccount.com",
+  "client_id": "107373490522842224218",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/batchjobhlarun%40hla-ecrm-dev.iam.gserviceaccount.com"
+}

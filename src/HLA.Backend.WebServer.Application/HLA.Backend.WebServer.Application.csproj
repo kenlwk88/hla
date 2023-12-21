@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HLA.Backend.Core.DataAccess\HLA.Backend.Core.DataAccess.csproj" />
+    <ProjectReference Include="..\HLA.Backend.Core.Domain\HLA.Backend.Core.Domain.csproj" />
+    <ProjectReference Include="..\HLA.Backend.Core.Infra\HLA.Backend.Core.Infra.csproj" />
+    <ProjectReference Include="..\HLA.Backend.WebServer.Domain\HLA.Backend.WebServer.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
